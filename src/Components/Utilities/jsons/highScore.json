@@ -1,0 +1,250 @@
+{
+  "highScores": [
+    {
+      "day": "Sun",
+      "score": "10"
+    },
+    {
+      "day": "Mon",
+      "score": "5"
+    },
+    {
+      "day": "Tue",
+      "score": "13"
+    },
+    {
+      "day": "Wed",
+      "score": "1"
+    },
+    {
+      "day": "Thu",
+      "score": "15"
+    },
+    {
+      "day": "Fri",
+      "score": "6"
+    },
+    {
+      "day": "Sat",
+      "score": "16"
+    }
+  ],
+  "scores": [
+    {
+      "id": "1",
+      "date": {
+        "day": "05",
+        "month": "June",
+        "year": "2021"
+      },
+      "score": "15"
+    },
+    {
+      "id": "2",
+      "date": {
+        "day": "06",
+        "month": "July",
+        "year": "2025"
+      },
+      "score": "12"
+    },
+    {
+      "id": "3",
+      "date": {
+        "day": "07",
+        "month": "Jan",
+        "year": "1794"
+      },
+      "score": "16"
+    },
+    {
+      "id": "4",
+      "date": {
+        "day": "15",
+        "month": "August",
+        "year": "1947"
+      },
+      "score": "02"
+    },
+    {
+      "id": "5",
+      "date": {
+        "day": "02",
+        "month": "Jan",
+        "year": "1857"
+      },
+      "score": "05"
+    },
+    {
+      "id": "6",
+      "date": {
+        "day": "26",
+        "month": "Jan",
+        "year": "1951"
+      },
+      "score": "05"
+    },
+    {
+      "id": "7",
+      "date": {
+        "day": "09",
+        "month": "Feb",
+        "year": "2020"
+      },
+      "score": "12"
+    },
+    {
+      "date": {
+        "day": "16",
+        "month": "June",
+        "year": 2021
+      },
+      "score": 6,
+      "id": "uwAtXBj"
+    },
+    {
+      "date": {
+        "day": "16",
+        "month": "June",
+        "year": 2021
+      },
+      "score": 7,
+      "id": "thwTCIn"
+    },
+    {
+      "date": {
+        "day": "16",
+        "month": "June",
+        "year": 2021
+      },
+      "score": 0,
+      "id": "Mc8cZ8R"
+    },
+    {
+      "date": {
+        "day": "16",
+        "month": "June",
+        "year": 2021
+      },
+      "score": 1,
+      "id": "2Y3674w"
+    },
+    {
+      "date": {
+        "day": "16",
+        "month": "June",
+        "year": 2021
+      },
+      "score": 0,
+      "id": "MlazPbH"
+    },
+    {
+      "date": {
+        "day": "16",
+        "month": "June",
+        "year": 2021
+      },
+      "score": 1,
+      "id": "K2Upd4o"
+    },
+    {
+      "date": {
+        "day": "16",
+        "month": "June",
+        "year": 2021
+      },
+      "score": 7,
+      "id": "lDJFTun"
+    },
+    {
+      "date": {
+        "day": "16",
+        "month": "June",
+        "year": 2021
+      },
+      "score": 6,
+      "id": "En9YmLD"
+    },
+    {
+      "date": {
+        "day": "16",
+        "month": "June",
+        "year": 2021
+      },
+      "score": 5,
+      "id": "oYfgK-t"
+    },
+    {
+      "date": {
+        "day": "16",
+        "month": "June",
+        "year": 2021
+      },
+      "score": 4,
+      "id": "a4rFonT"
+    },
+    {
+      "date": {
+        "day": "16",
+        "month": "June",
+        "year": 2021
+      },
+      "score": 0,
+      "id": "tf4Pwjv"
+    },
+    {
+      "date": {
+        "day": "16",
+        "month": "June",
+        "year": 2021
+      },
+      "score": 5,
+      "id": "ZKeOR16"
+    },
+    {
+      "date": {
+        "day": "18",
+        "month": "June",
+        "year": 2021
+      },
+      "score": 4,
+      "id": "o6GloO6"
+    },
+    {
+      "date": {
+        "day": "18",
+        "month": "June",
+        "year": 2021
+      },
+      "score": 1,
+      "id": "g6x1z9n"
+    },
+    {
+      "date": {
+        "day": "08",
+        "month": "July",
+        "year": 2021
+      },
+      "score": 1,
+      "id": "g72jmMd"
+    },
+    {
+      "date": {
+        "day": "08",
+        "month": "July",
+        "year": 2021
+      },
+      "score": 2,
+      "id": "-XL_bng"
+    },
+    {
+      "date": {
+        "day": "08",
+        "month": "July",
+        "year": 2021
+      },
+      "score": 2,
+      "id": "ZjmhhEB"
+    }
+  ]
+}
